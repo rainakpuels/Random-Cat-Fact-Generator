@@ -2,7 +2,6 @@
 
 <p align="center"><img width="400" src="public/random-cat-fact-generator.png" alt="The React app is on a pink background. The title says Random Cat Fact Generator! and underneath it in a white box with gray font, the fact A happy cat holds her tail high and steady. is displayed. Below the quote to the left is a button that copies the quote to your cursor, and next to that is a refresh symbol that generates a new quote."> </p><br>
 
-<br><br><br><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The original code can be found [here](https://github.com/techomoro/react-random-quote-generator). The random cat facts are from this [project](https://github.com/wh-iterabb-it/meowfacts).
 
 ## About
