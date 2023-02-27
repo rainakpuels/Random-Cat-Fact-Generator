@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
- [Click here to see the Random Cat Fact Generator in action.](https://rainakpuels.github.io/Random-Cat-Fact-Generator)
+ [Click here to see the Random Cat Fact Generator in action.](https://random-cat-fact-generator.netlify.app/)
 
 Using Axios, I was able to fetch external data from the meowfacts API and display it in a React app. On each refresh, a new fact gets displayed. You can also press the refresh button baked into the app, as well as a button that will copy the fact to your cursor! 
 
